@@ -1,6 +1,6 @@
 ### Task1_IoT_and_CV
 
-- This project was a part of internship under The Sparks Foundation in the domain IoT and Computer Vision.
+- This project was part of internship under 'The Sparks Foundation' in the domain IoT and Computer Vision.
 - The project is based upon Optical character recognition (OCR)
 - Language : Python
 - IDE : PyCharm
