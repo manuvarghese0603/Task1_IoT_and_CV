@@ -1,7 +1,7 @@
 ### Task1_IoT_and_CV
 
 -This project was a part of internship under The Sparks Foundation in the domain Iot and Computer Vision.
-- To learn more about the project and Team pragyastra check the links below.
+- To learn more about the project check the links below.
 
 <br />
 
